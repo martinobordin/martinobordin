@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Martino Bordin</h1>
-<h3 align="center">A passionate 👨🏻‍💻Full Remote Software Developer from Italy
+<h3 align="center">A passionate 👨🏻‍💻Full Remote Software Developer from Italy</h3>
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150" alt="Microsoft Certified: Azure Developer Associate" />
+  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150" alt="Microsoft Certified: Azure Administrator Associate" />
+  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="150" alt="Microsoft Certified: DevOps Engineer Expert" />
+<p>
 
-![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png )
-![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)
-![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)
-</h3>
 
 
-
-<p align="left"> <a href="https://twitter.com/martinobordin" target="blank"><img src="https://img.shields.io/twitter/follow/martinobordin?logo=twitter&style=for-the-badge" alt="martinobordin" /></a> </p>
+<p align="center"> <a href="https://twitter.com/martinobordin" target="blank"><img src="https://img.shields.io/twitter/follow/martinobordin?logo=twitter&style=for-the-badge" alt="martinobordin" /></a> </p>
 
 - 🔭 I’m currently working on [MPS Monitor](https://www.mpsmonitor.com/)
 
