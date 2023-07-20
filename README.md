@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martino Bordin</h1>
 <h3 align="center">A passionate 👨🏻‍💻Full Remote Software Developer from Italy</h3>
 <p align="center">
+  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="150" alt="Microsoft Certified: Azure Developer" />
   <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150" alt="Microsoft Certified: Azure Administrator Associate" />
   <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="150" alt="Microsoft Certified: DevOps Engineer Expert" />
   <img src="https://images.credly.com/size/340x340/images/c1d46e6d-2e67-445b-a5b9-e296a62b8257/image.png" width="150" alt="MongoDB Associate Developer" />
