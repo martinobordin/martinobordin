@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Martino Bordin</h1>
 <h3 align="center">A passionate 👨🏻‍💻Full Remote Software Developer from Italy</h3>
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="150" alt="Microsoft Certified: Azure Developer" />
-  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150" alt="Microsoft Certified: Azure Administrator Associate" />
-  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="150" alt="Microsoft Certified: DevOps Engineer Expert" />
-  <img src="https://images.credly.com/size/340x340/images/46c663b1-d946-4f0e-8698-a490bd52b384/image.png" width="150" alt="MongoDB Associate Developer" />
-<p>
+	<img src="https://www.martinobordin.it/img/MS_Cert_Trainer_logo_Wht_rgb.png" width="188" height="123" alt="Microsoft Certified Trainer" title="Microsoft Certified Trainer" style="visibility: visible; animation-name: bounceIn;">
+	<img src="https://www.martinobordin.it/img/MS_Cert_Professional_logo_Wht_rgb.png" width="188" height="123" alt="Microsoft Certified Professional" title="Microsoft Certified Professional" style="visibility: visible; animation-delay: 0.5s; animation-name: bounceIn;">
+	<img src="https://www.martinobordin.it/img/MCSD App Builder-logo-Wht.png" width="150" height="107" alt="Microsoft Certified Solution Developer" title="Microsoft Certified Solution Developer" style="visibility: visible; animation-delay: 1s; animation-name: bounceIn;">&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://www.martinobordin.it/img/MCSA WebApps-logo-Wht.png" width="150" height="107" alt="Microsoft Certified Solution Associate" title="Microsoft Certified Solution Associate" style="visibility: visible; animation-delay: 1.5s; animation-name: bounceIn;">
+	<img src="https://www.martinobordin.it/img/azure-developer-associate.png" width="150" alt="Microsoft Certified Azure Developer Associate" title="Microsoft Certified Azure Developer Associate" style="visibility: visible; animation-delay: 2s; animation-name: bounceIn;">
+	<img src="https://www.martinobordin.it/img/azure-administrator-associate.png" width="150" alt="Microsoft Certified Azure Administrator Associate" title="Microsoft Certified Azure Administrator Associate" style="visibility: visible; animation-delay: 2.5s; animation-name: bounceIn;">
+	<img src="https://www.martinobordin.it/img/devops-engineer-expert.png" width="150" alt="Microsoft Certified DevOps Engineer Expert" title="Microsoft Certified DevOps Engineer Expert" style="visibility: visible; animation-delay: 3s; animation-name: bounceIn;">
+	<img src="https://www.martinobordin.it/img/azure-solutions-architect-expert.png" width="150" alt="Microsoft Certified Azure Solutions Architect Expert" title="Microsoft Certified Azure Solutions Architect Expert" style="visibility: visible; animation-delay: 3.5s; animation-name: bounceIn;">
+	<img src="https://www.martinobordin.it/img/mongo-associate.png" width="150" alt="MongoDB Associate Developer" title="MongoDB Associate Developer" style="visibility: visible; animation-delay: 4s; animation-name: bounceIn;">
+</p>
 
 
 
