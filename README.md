@@ -14,8 +14,6 @@
 
 - 🔭 I’m currently working on [MPS Monitor](https://www.mpsmonitor.com/)
 
-- 🌱 I’m currently learning **DDD, Microservices, DAPR; Kubernetes**
-
 - 📝 I write articles on [http://blogs.ugidotnet.org/martinobordin/](http://blogs.ugidotnet.org/martinobordin/)
 
 - 💬 Ask me about **angular, net, azure**
